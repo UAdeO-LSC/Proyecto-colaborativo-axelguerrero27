@@ -5,7 +5,7 @@
 
 ## Axel Yair Guerrero Melendrez admin
 
-## Alejandra Azucena Gracia Medina Write
+## Alejandra Azucena Garcia Medina Write
 
 ## Alexis Moreno Zuñiga read
 
