@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+/*estilos del body*/
+body{
+	background-image: url(src/bg2.png);/*Imagen de fondo*/
+	background-size: 100% 100%;
+	background-attachment: fixed;/*Propiedad para que la imagen quede fija*/
+}
+/*---estilos header---*/
+header{
+	margin: auto;
+	width: 80%;
+}
+.container_banner{
+	height: 200px;
+}
+.conainer_banner img{/*imagen del banner*/
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+/*---estilos menu---*/
+.main_navigation{
+	background: black;
+	width: 80%;
+	margin:auto;
+}
+.menu_navigation{
+	list-style: none;
+	height: 50px;
+	vertical-align: middle;
+}
+.menu_navigation li{
+	font-weight: bold;
+	float: left;
+	margin-right: 5px;
+}
+.menu_navigation li a{
+	margin-left: 8px;
+	margin-top: 5px;
+	padding: 10px;
+	display: block;
+	background: black;
+	text-decoration: none;
+	color:white;
+	border-radius: 5px;
+}
+/*animacion del menu*/
+.menu_navigation li a:hover{
+background: rgb(12, 12, 12);
+color: rgb(117, 126, 255);
+}
+/*-----Estilos principal-----*/
+.main_container{/*Contenedor principal*/
+	width: 80%;
+	height: 2250px;
+	margin:12px auto;
+	background: rgb(7, 7, 68);
+	color: white;
+}
+.main_container_cont1{
+	border-radius: 10px;
+	margin:auto;
+	background: rgb(29, 29, 29);
+	padding: 20px;
+	width: 90%;
+	margin-top:40px;
+	margin-bottom: 12px;
+}
+.container_imagen1{
+	background:black;
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.main_container_cont1 img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.main_container_cont2{
+	border-radius: 10px;
+	margin:auto;
+	background: rgb(29, 29, 29);
+	padding: 20px;
+	width: 90%;
+	margin-top:10px;
+}
+.container_imagen2{
+	background:black;
+	width: 100%;
+	height: 500px;
+	margin: auto;
+}
+.main_container_cont2 img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.main_container_cont3{
+	padding: 20px;
+	width: 100%;
+	margin-top:12px;
+}
+.container_imagen{
+	margin-top: 12px;
+	height: 250px;
+	width: 70%;
+	margin: auto;
+}
+.container_imagen img{
+	margin-top: 30px;
+	border-radius: 12px;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+/*-----Diseño del trailer yt-----*/
+.trailer{
+	width: 60%;
+	margin:auto;
+	text-align: center;
+	color: white;
+}
+/*-----Diseño del footer-----*/
+footer{
+	width: 100%;
+	margin:auto;
+	background: rgb(8, 8, 8);
+	height: 110px;
+	text-align: center;
+	color:white;
+	padding: 10px;
+}
