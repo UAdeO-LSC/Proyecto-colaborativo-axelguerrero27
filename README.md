@@ -5,8 +5,8 @@
 
 ## Axel Yair Guerrero Melendrez - Admin
 
-## Alejandra Azucena Garcia Medina Write
+## Alejandra Azucena Garcia Medina - Triage
 
 ## Alexis Moreno Zuñiga - Read
 
-## Eleazar Perez Bañuelos - Triage
+## Eleazar Perez Bañuelos - Write
