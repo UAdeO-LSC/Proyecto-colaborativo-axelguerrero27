@@ -3,10 +3,10 @@
 
 ## Integrantes:
 
-## Axel Yair Guerrero Melendrez admin
+## Axel Yair Guerrero Melendrez - Admin
 
 ## Alejandra Azucena Garcia Medina Write
 
-## Alexis Moreno Zuñiga read
+## Alexis Moreno Zuñiga - Read
 
-## Eleazar Perez Bañuelos triage
+## Eleazar Perez Bañuelos - Triage
